@@ -24,6 +24,15 @@
     .custom-login{
         height:650px;
         padding-top: 200px;
-}
+    }
+    img.silder-img{
+        height: 400px;
+        width: 1080px;
+    }
+    .custom-product{
+        height: 500px;
+        padding-bottom: 100px;
+        padding-top: 50px;
+    }
 </style>
 </html>
